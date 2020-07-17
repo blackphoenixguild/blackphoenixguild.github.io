@@ -25,7 +25,7 @@ nav{
   height: 8vh;
   min-height: 8vh;
   max-height: 8vh;
-  background-color: #5d4954;
+  background-color: #5c5c5c;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -47,7 +47,7 @@ nav{
 	margin-right: auto;
 	flex-direction: column;
 	justify-content: center;
-	background-color: #876b7a;
+	background-color: #878787;
 	align-items: center;
 	text-align: center;
 	font-size: 1vw;
@@ -63,7 +63,7 @@ nav{
 	margin-right: auto;
 	flex-direction: column;
 	justify-content: center;
-	background-color: #876b7a;
+	background-color: #878787;
 	align-items: center;
 	text-align: center;
 	font-size: 1vw;
